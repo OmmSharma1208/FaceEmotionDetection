@@ -1,0 +1,12 @@
+tensorflow
+keras
+keras-preprocessing
+pandas
+numpy
+jupyter
+notebook
+tqdm
+scikit-learn
+pillow
+h5py
+opencv-contrib-python
